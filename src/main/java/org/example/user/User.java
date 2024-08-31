@@ -18,7 +18,7 @@ public class User {
     }
     @PostConstruct
     public void init(){
-        System.out.println(food +"c");
+        System.out.println(food +"M");
         food.like();
     }
 }
